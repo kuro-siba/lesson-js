@@ -3,8 +3,8 @@ const btn = document.querySelector('#btn');
 
 isAgreed.addEventListener('change', () => {
   if (isAgreed.checked) {
-    btn.disable = false;
+    btn.disabled = false;
   } else {
-    btn.disable = true;
+    btn.disabled = true;
   }
 });
