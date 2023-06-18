@@ -10,5 +10,5 @@ const btn = document.querySelector('#btn');
 // });
 
 isAgreed.addEventListener('change', () => {
-  btn.disable = !isAgreed.ariaChecked;
+  btn.disabled = !isAgreed.Checked;
 });
