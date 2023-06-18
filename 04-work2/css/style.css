@@ -3,7 +3,7 @@ body {
   padding: 2rem;
 }
 #text {
-  bottom: 4px solid #000;
+  border: 4px solid #ccc;
   border-radius: 8px;
   width: 600px;
   height: 240px;
