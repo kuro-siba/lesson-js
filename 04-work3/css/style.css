@@ -3,6 +3,7 @@ body {
   padding: 2rem;
 }
 label {
+  color: #000;
   display: block;
   margin-bottom: 1rem;
 }
